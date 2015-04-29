@@ -73,7 +73,7 @@ public class aproblem1_20 {
         String result11_1 = ZigZagConversion.convert("PAYPALISHIRING",3);
         System.out.println(result11_1);
 */
-        //1.
+        // 2015.4.29 1,2,3,4,5
 
         boolean result13_1 = ValidPalindrome.isPalindrome(",.");
         System.out.println(result13_1);
