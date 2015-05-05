@@ -79,5 +79,8 @@ public class aproblem1_20 {
         System.out.println(result13_1);
         int test = 1/10;
         System.out.println('Z'-'z');
+
+        // 2015.5.24 1
+
     }
 }
